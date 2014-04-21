@@ -1,0 +1,36 @@
+D3 Tutorial Notes
+3-12-2014
+http://alignedleft.com/tutorials/d3/
+
+
+3-13-2014
+- fundamentals html, css, javascript and svg.
+- setup: use regular version of d3 for testing and debugging,
+	use "minified" version for publicity (faster)
+- adding elements with d3 chain syntax
+- binding data
+
+4-11-2014
+- using data
+
+4-13-2014
+- data visualization
+	- drawing divs
+- .attr() vs .style()
+
+- power of data, random dataset
+- SVG(scalable vector graphics)
+- Drawing circles, capacity & transparency
+- Drawing SVGs
+
+4-16-2014
+- types of data
+
+4-17-2014
+- making a bar chart
+
+4-20-2014
+- making scatterplot
+- d3 scale
+- d3 axes
+
